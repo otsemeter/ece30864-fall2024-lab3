@@ -1,2 +1,3 @@
 1. pros: immediate feedback, flexibility. cons: time, lack of documentation
 2. Product owner: direction for the team, Scrum master: all scrum related tasks
+3. Sprint planning meeting, Daily SCRUM meeting, Sprint retrospective meeting
